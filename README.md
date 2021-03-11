@@ -22,4 +22,4 @@ A\*알고리즘을 통해 무작위로 생성된 방을 길로 이어주어 방�
 최적의 길을 찾아 쓸데없이 맵이 길로 도배되어 있지 않도록 이 알고리즘으로 선택하였다.
 
 하지만 실제 코드에서는 A\*알고리즘은 완벽히 구현하지 못했고, 대신 그리디(greedy)에 가까운 알고리즘을 구현했다.
-![image](Weighted_A_star_with_eps_5.gif)
+![image](Astar_progress_animation.gif)
